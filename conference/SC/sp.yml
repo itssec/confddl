@@ -1,0 +1,19 @@
+- title: S&P
+  description: IEEE Symposium on Security and Privacy
+  sub: SC
+  rank: A
+  dblp: sp
+  confs:
+    - year: 2024
+      id: sp24
+      link: https://www.ieee-security.org/TC/SP2024/
+      timeline:
+        - deadline: '2023-04-13 23:59:59'
+          comment: 'First Paper submission deadline'
+        - deadline: '2023-08-03 23:59:59'
+          comment: 'Second Paper submission deadline'
+        - deadline: '2023-12-06 23:59:59'
+          comment: 'Third Paper submission deadline'
+      timezone: UTC-12
+      date: MAY 20-23, 2024
+      place: SAN FRANCISCO, CA

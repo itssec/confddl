@@ -1,0 +1,15 @@
+- title: AAAI
+  description: AAAI Conference on Artificial Intelligence
+  sub: AI
+  rank: A
+  dblp: aaai
+  confs:
+    - year: 2024
+      id: aaai24
+      link: https://www.aaai.org/aaai-conference/
+      timeline:
+        - abstract_deadline: '2023-08-08 23:59:59'
+          deadline: '2023-08-15 23:59:59'
+      timezone: UTC-12
+      date: February 20 - February 27, 2024
+      place: Vancouver, British Columbia, Canada

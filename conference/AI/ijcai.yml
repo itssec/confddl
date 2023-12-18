@@ -1,0 +1,15 @@
+- title: IJCAI
+  description: International Joint Conference on Artificial Intelligence
+  sub: AI
+  rank: A
+  dblp: ijcai
+  confs:
+    - year: 2024
+      id: ijcai24
+      link: https://ijcai24.org/
+      timeline:
+        - abstract_deadline: '2024-01-10 23:59:59'
+          deadline: '2024-01-17 23:59:59'
+      timezone: UTC-12
+      date: August 3-9, 2024
+      place: Jeju Island, South Korea.

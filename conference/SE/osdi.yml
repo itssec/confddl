@@ -1,0 +1,15 @@
+- title: OSDI
+  description: USENIX Symposium on Operating Systems Design and Implementation
+  sub: SE
+  rank: A
+  dblp: osdi
+  confs:
+    - year: 2024
+      id: osdi2024
+      link: https://www.usenix.org/conference/osdi24
+      timeline:
+        - abstract_deadline: '2023-11-30 22:59:59'
+          deadline: '2023-12-07 22:59:59'
+      timezone: UTC
+      date: July 10-12, 2024
+      place: Santa Clara, CA, USA

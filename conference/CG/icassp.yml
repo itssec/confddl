@@ -1,0 +1,14 @@
+- title: ICASSP
+  description: IEEE International Conference on Acoustics, Speech, and Signal Processing
+  sub: CG
+  rank: B
+  dblp: icassp
+  confs:
+    - year: 2024
+      id: icassp24
+      link: https://2024.ieeeicassp.org/
+      timeline:
+        - deadline: '2023-09-06 23:59:59'
+      timezone: UTC-12
+      date: April 14-19, 2024
+      place: COEX, Seoul, Korea

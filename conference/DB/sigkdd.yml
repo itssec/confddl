@@ -1,0 +1,19 @@
+- title: SIGKDD
+  description: ACM Knowledge Discovery and Data Mining
+  sub: DB
+  rank: A
+  dblp: kdd
+  confs:
+    - year: 2024
+      id: sigkdd24
+      link: https://kdd.org/kdd2024/
+      timeline:
+        - abstract_deadline: '2024-02-01 23:59:59'
+          deadline: '2024-02-08 23:59:59'
+          comment: '1st deadline'
+        - abstract_deadline: '2024-07-25 23:59:59'
+          deadline: '2024-08-01 23:59:59'
+          comment: '1st deadline'
+      timezone: AoE
+      date: August 18-22, 2023 
+      place: Barcelona, Spain

@@ -1,0 +1,15 @@
+- title: SIGIR
+  description: International Conference on Research on Development in Information Retrieval
+  sub: DB
+  rank: A
+  dblp: sigir
+  confs:
+    - year: 2024
+      id: sigir24
+      link: https://sigir-2024.github.io/index.html
+      timeline:
+        - abstract_deadline: '2024-01-19 23:59:59'
+          deadline: '2024-01-25 23:59:59'
+      timezone: AoE
+      date: July 14-18, 2024
+      place: Washington D.C., USA

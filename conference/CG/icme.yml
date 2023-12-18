@@ -1,0 +1,14 @@
+- title: ICME
+  description: The IEEE International Conference on Multimedia & Expo
+  sub: CG
+  rank: B
+  dblp: icme
+  confs:
+    - year: 2024
+      id: icme24
+      link: https://2024.ieeeicme.org/
+      timeline:
+        - deadline: '2023-12-30 23:59:59'
+      timezone: UTC+0
+      date: July 15-19, 2024
+      place: Niagra Falls, Canada

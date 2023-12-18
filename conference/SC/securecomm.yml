@@ -1,0 +1,14 @@
+- title: SecureComm
+  description: International Conference on Security and Privacy in Communication Networks
+  sub: SC
+  rank: C
+  dblp: securecomm
+  confs:
+    - year: 2023
+      id: securecomm23
+      link: https://securecomm.eai-conferences.org/2023/
+      timeline:
+        - deadline: '2023-05-06 23:59:59'
+      timezone: AoE
+      date: October 19-21, 2023
+      place: Hong Kong SAR, Hong Kong

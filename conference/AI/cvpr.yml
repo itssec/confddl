@@ -1,0 +1,14 @@
+- title: CVPR
+  description: IEEE/CVF Conference on Computer Vision and Pattern Recognition
+  sub: AI
+  rank: A
+  dblp: cvpr
+  confs:
+    - year: 2024
+      id: cvpr24
+      link: https://cvpr.thecvf.com/Conferences/2024
+      timeline:
+          - deadline: '2023-11-17 23:59:59'
+      timezone: UTC-8
+      date: June 17-21, 2024
+      place: Seattle, USA

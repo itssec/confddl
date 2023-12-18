@@ -1,0 +1,15 @@
+- title: QRS
+  description: IEEE International Conference on Software Quality, Reliability and Security
+  sub: SE
+  rank: C
+  dblp: qrs
+  confs:
+    - year: 2024
+      id: qrs24
+      link: https://qrs24.techconf.org/
+      timeline:
+        - abstract_deadline: '2024-03-11 23:59:59'
+          deadline: '2024-03-18 23:59:59'
+      timezone: AoE
+      date: July 1-5, 2024
+      place: Cambridge, United Kingdom
