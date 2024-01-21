@@ -1,12 +1,12 @@
 <template>
   <section>
     <el-row>
-      <a href="/" class="title">CCF Rec. Conference Deadlines</a>
+      <a href="/" class="title">Conference Deadlines</a>
       <github-button style="padding-left: 5px"></github-button>
       <span v-if="showLatestConf" style="color:#fd3c95;font-weight: bold;">Latest: {{this.showStr}} !!!</span>
     </el-row>
     <el-row class="subtitle">
-      Conference recommended by CCF on Intelligent Traffic Security and Artifical Intelligent Security. To add/edit a conference, <a style="color: #666666" href="https://github.com/itssec/confddl/pulls">send a pull request.</a>
+      Conference on Artifical Intelligent and Information Security. To add/edit a conference, <a style="color: #666666" href="https://github.com/itssec/confddl/pulls">send a pull request.</a>
     </el-row>
     <el-row class="subtitle">
     </el-row>
