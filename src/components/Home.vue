@@ -73,7 +73,7 @@
             </el-row>
             <el-row>
               <div v-if="scope.row.status === 'TBD'">
-                Deadline: <a href="https://github.com/ss4ad/confddl/pulls">pull request to update</a>
+                Deadline: <a href="https://github.com/itssec/confddl/pulls">pull request to update</a>
               </div>
               <div v-else>
                 Deadline: {{scope.row.localDDL}} ({{scope.row.originDDL}})
@@ -88,7 +88,7 @@
     </el-table>
     <el-row style="padding-top: 8px">
       <div style="float: left; color: #666666;font-size: 12px;">
-        <div>ss4ad-confddl is maintained by <a href="https://github.com/Allenpandas">@Allenpandas</a>.</div>
+        <div>itssec-confddl is maintained by <a href="https://github.com/Allenpandas">@Allenpandas</a>.</div>
       </div>
       <div style="float: right">
         <el-pagination
@@ -366,7 +366,7 @@ export default {
     },
     formatiCloudCalendar(row){
       return "data:text/calendar;charset=utf8,BEGIN:VCALENDAR%0AVERSION:2.0%0ABEGIN:VEVENT%0A" +
-          "URL:https://ss4ad.github.io/%0A" +
+          "URL:https://itssec.github.io/%0A" +
           "DTSTART:" + moment(row.deadline + this.utcMap.get(row.timezone)).toISOString().replace(/-|:|\.\d\d\d/g,"") + "%0A" +
           "DTEND:" + moment(row.deadline + this.utcMap.get(row.timezone)).toISOString().replace(/-|:|\.\d\d\d/g,"") + "%0A" +
           "SUMMARY:" + row.title + " " + row.year + " Deadline %0A" +
